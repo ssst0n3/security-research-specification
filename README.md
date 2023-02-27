@@ -18,7 +18,7 @@
     * [例子：伪装Azure Cloud Shell服务窃取用户token](./example/%E4%BC%AA%E8%A3%85Azure%20Cloud%20Shell%E6%9C%8D%E5%8A%A1%E7%AA%83%E5%8F%96%E7%94%A8%E6%88%B7token.md)
     * [例子：Azure：从子域名接管到内部账户接管](./example/Azure%EF%BC%9A%E4%BB%8E%E5%AD%90%E5%9F%9F%E5%90%8D%E6%8E%A5%E7%AE%A1%E5%88%B0%E5%86%85%E9%83%A8%E8%B4%A6%E6%88%B7%E6%8E%A5%E7%AE%A1.md)
 * [项目推荐](./云原生安全资讯/项目推荐.md)
-    * 例子: TODO
+    * [例子: 工具推荐：kubeletctl](./example/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90%EF%BC%9Akubeletctl.md)
 
 ## CHANGELOG
 
