@@ -63,10 +63,11 @@
 
 #### Researcher Introduction
 
-| version | change          | date       |
-|---------|-----------------|------------|
-| v0.1.1  | Add item medium | 2023-03-15 |
-| v0.1.0  | Initial Release | 2023-03-15 |
+| version | change              | date       |
+|---------|---------------------|------------|
+| v0.1.2  | Add item slideshare | 2023-03-16 |
+| v0.1.1  | Add item medium     | 2023-03-15 |
+| v0.1.0  | Initial Release     | 2023-03-15 |
 
 #### 云漏洞案例
 
