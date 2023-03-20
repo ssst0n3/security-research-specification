@@ -1,6 +1,6 @@
 ---
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.2
+spec version: v0.1.3
 version: v0.1.0
 ---
 
@@ -22,6 +22,7 @@ version: v0.1.0
 | social media     | -         | -    |
 | twitter          |
 | mastodon         |
+| telegram         |
 | reddit           |
 | facebook         |
 | hackmd           |
