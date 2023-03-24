@@ -14,11 +14,12 @@
 
 ## 云原生安全资讯
 
-* [Researcher Introduction](./云原生安全资讯/researcher-introduction.md)
-* [云漏洞案例](./%E4%BA%91%E5%8E%9F%E7%94%9F%E5%AE%89%E5%85%A8%E8%B5%84%E8%AE%AF/%E4%BA%91%E6%BC%8F%E6%B4%9E%E6%A1%88%E4%BE%8B.md)
+* [Researcher Introduction](./cloud-native-security-news/researcher-introduction.md)
+* [Security Conference Talk Learning](./cloud-native-security-news/security-conference-talk-learning.md)
+* [云漏洞案例](./cloud-native-security-news/%E4%BA%91%E6%BC%8F%E6%B4%9E%E6%A1%88%E4%BE%8B.md)
     * [例子：伪装Azure Cloud Shell服务窃取用户token](./example/%E4%BC%AA%E8%A3%85Azure%20Cloud%20Shell%E6%9C%8D%E5%8A%A1%E7%AA%83%E5%8F%96%E7%94%A8%E6%88%B7token.md)
     * [例子：Azure：从子域名接管到内部账户接管](./example/Azure%EF%BC%9A%E4%BB%8E%E5%AD%90%E5%9F%9F%E5%90%8D%E6%8E%A5%E7%AE%A1%E5%88%B0%E5%86%85%E9%83%A8%E8%B4%A6%E6%88%B7%E6%8E%A5%E7%AE%A1.md)
-* [项目推荐](./云原生安全资讯/项目推荐.md)
+* [项目推荐](cloud-native-security-news/项目推荐.md)
     * [例子: 工具推荐：kubeletctl](./example/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90%EF%BC%9Akubeletctl.md)
 
 ## CHANGELOG
@@ -42,6 +43,7 @@
 
 | version | change                                                               | date       |
 |---------|----------------------------------------------------------------------|------------|
+| v0.2.11 | translate directory name '云原生安全资讯' to 'cloud-native-security-news'   | 2023-03-25 |
 | v0.2.10 | 修订：三、漏洞作者：update to v0.1.3                                           | 2023-03-20 |
 | v0.2.9  | 修订：三、漏洞作者：update to v0.1.2                                           | 2023-03-16 |
 | v0.2.8  | 修订：三、漏洞作者：直接引用research-introduction；更新至v0.1.1                        | 2023-03-15 |
@@ -65,22 +67,31 @@
 
 #### Researcher Introduction
 
-| version | change              | date       |
-|---------|---------------------|------------|
-| v0.1.3  | Add item telegram   | 2023-03-20 |
-| v0.1.2  | Add item slideshare | 2023-03-16 |
-| v0.1.1  | Add item medium     | 2023-03-15 |
-| v0.1.0  | Initial Release     | 2023-03-15 |
+| version | change                                                             | date       |
+|---------|--------------------------------------------------------------------|------------|
+| v0.1.4  | translate directory name '云原生安全资讯' to 'cloud-native-security-news' | 2023-03-25 |
+| v0.1.3  | Add item telegram                                                  | 2023-03-20 |
+| v0.1.2  | Add item slideshare                                                | 2023-03-16 |
+| v0.1.1  | Add item medium                                                    | 2023-03-15 |
+| v0.1.0  | Initial Release                                                    | 2023-03-15 |
+
+#### Security Conference Talk Learning
+
+| version | change          | date       |
+|---------|-----------------|------------|
+| v0.1.0  | Initial Release | 2023-03-25 |
 
 #### 云漏洞案例
 
-| version | change | date       |
-|---------|--------|------------|
-| v0.1.0  | 初始版本   | 2023-01-09 |
+| version | change                                                             | date       |
+|---------|--------------------------------------------------------------------|------------|
+| v0.1.1  | translate directory name '云原生安全资讯' to 'cloud-native-security-news' | 2023-03-25 |
+| v0.1.0  | 初始版本                                                               | 2023-01-09 |
 
 #### 项目推荐
 
-| version | change                                               | date       |
-|---------|------------------------------------------------------|------------|
-| v0.2.0  | 新增章节1.5 Source Code[Optional]; 标记1.2 Why为 [Optional] | 2023-03-03 |
-| v0.1.0  | 初始版本                                                 | 2023-02-17 |
+| version | change                                                             | date       |
+|---------|--------------------------------------------------------------------|------------|
+| v0.2.1  | translate directory name '云原生安全资讯' to 'cloud-native-security-news' | 2023-03-25 |
+| v0.2.0  | 新增章节1.5 Source Code[Optional]; 标记1.2 Why为 [Optional]               | 2023-03-03 |
+| v0.1.0  | 初始版本                                                               | 2023-02-17 |

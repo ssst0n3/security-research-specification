@@ -1,6 +1,6 @@
 ---
-tags: 云原生安全资讯,项目推荐
-spec version: v0.1.0
+tags: Cloud Native Security News,项目推荐
+spec version: v0.2.1
 ---
 
 ## 1. 工具推荐：kubeletctl 
@@ -157,4 +157,4 @@ $ kubeletctl pods
 
 ----
 
-> 本文使用[云原生安全资讯：项目推荐](https://github.com/ssst0n3/security-research-specification/blob/main/%E4%BA%91%E5%8E%9F%E7%94%9F%E5%AE%89%E5%85%A8%E8%B5%84%E8%AE%AF/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)作为文档基线
+> 本文使用[云原生安全资讯：项目推荐](https://github.com/ssst0n3/security-research-specification/blob/main/cloud-native-security-news/%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md)作为文档基线
