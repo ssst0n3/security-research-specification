@@ -75,6 +75,12 @@
 | v0.1.1  | Add item medium                                                    | 2023-03-15 |
 | v0.1.0  | Initial Release                                                    | 2023-03-15 |
 
+#### Security Conference Talk Learning
+
+| version | change          | date       |
+|---------|-----------------|------------|
+| v0.1.0  | Initial Release | 2023-03-25 |
+
 #### 云漏洞案例
 
 | version | change                                                             | date       |
