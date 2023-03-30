@@ -1,18 +1,20 @@
 # Security Research Specification
 
-## 漏洞研究
+## Vulnerability Research
 
-* [漏洞挖掘报告](./%E6%BC%8F%E6%B4%9E%E7%A0%94%E7%A9%B6/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%8A%A5%E5%91%8A.md)
-    * 例子: TODO
-* [漏洞分析与复现](./%E6%BC%8F%E6%B4%9E%E7%A0%94%E7%A9%B6/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E7%8E%B0.md)
-    * 例子: TODO
+* [vulnerability report](./vulnerability-research/vulnerability-report.md)
+  * example: TODO
+* [漏洞挖掘报告](./vulnerability-research/%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98%E6%8A%A5%E5%91%8A.md)
+  * 例子: TODO
+* [漏洞分析与复现](./vulnerability-research/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E7%8E%B0.md)
+  * 例子: TODO
 
 ## 安全使用
 
 * [安全加固](./%E5%AE%89%E5%85%A8%E4%BD%BF%E7%94%A8/%E5%AE%89%E5%85%A8%E5%8A%A0%E5%9B%BA.md)
     * 例子: TODO
 
-## 云原生安全资讯
+## Cloud Native Security News
 
 * [Researcher Introduction](./cloud-native-security-news/researcher-introduction.md)
 * [Security Conference Talk Learning](./cloud-native-security-news/security-conference-talk-learning.md)
@@ -31,7 +33,16 @@
 | v0.2.0  | 增加基线metadata信息；增加章节四：加固案例 | 2023-02-15 |
 | v0.1.0  | 初始版本                      | 2023-02-02 |
 
-### 漏洞挖掘报告
+### Vulnerability Research
+
+#### Vulnerability Report
+
+| version | change           | date       |
+|---------|------------------|------------|
+| v0.1.0  | Initial Research | 2023-03-30 |
+
+
+#### 漏洞挖掘报告
 
 | version | change      | date       |
 |---------|-------------|------------|
@@ -39,7 +50,7 @@
 | v0.1.2  | 修订：细化1.基本信息 | 2023-02-03 |
 | v0.1.1  | 初始版本        | 2023-02-02 |
 
-### 漏洞分析与复现
+#### 漏洞分析与复现
 
 | version | change                                                               | date       |
 |---------|----------------------------------------------------------------------|------------|
