@@ -43,6 +43,7 @@
 
 | version | change                                                               | date       |
 |---------|----------------------------------------------------------------------|------------|
+| v0.2.12 | 修订：三、漏洞作者：update to v0.1.5                                           | 2023-03-30 |
 | v0.2.11 | translate directory name '云原生安全资讯' to 'cloud-native-security-news'   | 2023-03-25 |
 | v0.2.10 | 修订：三、漏洞作者：update to v0.1.3                                           | 2023-03-20 |
 | v0.2.9  | 修订：三、漏洞作者：update to v0.1.2                                           | 2023-03-16 |
@@ -69,6 +70,7 @@
 
 | version | change                                                             | date       |
 |---------|--------------------------------------------------------------------|------------|
+| v0.1.5  | Add item bitbucket                                                 | 2023-03-30 |
 | v0.1.4  | translate directory name '云原生安全资讯' to 'cloud-native-security-news' | 2023-03-25 |
 | v0.1.3  | Add item telegram                                                  | 2023-03-20 |
 | v0.1.2  | Add item slideshare                                                | 2023-03-16 |
