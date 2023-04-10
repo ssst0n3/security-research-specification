@@ -1,6 +1,6 @@
 ---
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.5
+spec version: v0.1.6
 version: v0.1.0
 ---
 
@@ -30,6 +30,7 @@ version: v0.1.0
 | youtube          |
 | linkedin         |
 | medium           |
+| asciinema        |
 | cve              |
 | acknowledgements |
 | presents         |
@@ -37,6 +38,7 @@ version: v0.1.0
 | ctf              |
 | paper            |
 | book             |
+| article          |
 | other            |
 
 > This document use [Cloud Native Security News: Researcher Introduction](https://github.com/ssst0n3/security-research-specification/blob/main/cloud-native-security-news/researcher-introduction.md) as template.
