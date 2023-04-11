@@ -1,6 +1,6 @@
 ---
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.7
+spec version: v0.1.8
 version: v0.1.0
 ---
 
@@ -32,6 +32,7 @@ version: v0.1.0
 | linkedin         |
 | medium           |
 | asciinema        |
+| instagram        |
 | cve              |
 | acknowledgements |
 | presents         |
