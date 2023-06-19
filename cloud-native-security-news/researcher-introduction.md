@@ -1,7 +1,9 @@
 ---
+
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.9
+spec version: v0.1.12
 version: v0.1.0
+
 ---
 
 ## 1. Researcher Introduction: [Person Name]
@@ -22,7 +24,7 @@ version: v0.1.0
 | website          | [title]() |
 | blog             |
 | dockerhub        |           |
-| social media     | -         | -    |
+| [social media]   | [link]    |
 | twitter          |
 | mastodon         |
 | telegram         |
@@ -34,9 +36,10 @@ version: v0.1.0
 | medium           |
 | asciinema        |
 | instagram        |
-| cve              |
-| acknowledgements |
-| presents         |
+| stackexchange    |
+| cve              |           |
+| acknowledgements | link      |
+| [presents]       | [link]    |
 | slideshare       |
 | ctf              |
 | paper            |
