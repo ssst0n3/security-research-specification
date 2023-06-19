@@ -17,6 +17,7 @@ version: v0.1.0
 |------------------|-----------|------|
 | author           |
 | organization     |
+| [git]            | [link]    |
 | github           |
 | gitlab           |
 | bitbucket        |
