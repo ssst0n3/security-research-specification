@@ -1,6 +1,6 @@
 ---
 tags: Cloud Native Security News,Project Introduction
-spec version: v0.2.3
+spec version: v0.2.4
 ---
 
 ## 1. Project/Tool Introduction: Name
@@ -19,7 +19,7 @@ Why need it, why is it rather than others
 
 #### 1.3.1 How to use
 
-#### 1.3.2 How is it implemented%E9%A1%B9%E7%9B%AE%E6%8E%A8%E8%8D%90.md
+#### 1.3.2 How it works
 
 ### 1.4 Try [Optional]
 
