@@ -124,10 +124,12 @@
 | v0.1.1  | translate directory name '云原生安全资讯' to 'cloud-native-security-news' | 2023-03-25 |
 | v0.1.0  | 初始版本                                                               | 2023-01-09 |
 
-#### 项目推荐
+#### Project Introduction
 
 | version | change                                                             | date       |
 |---------|--------------------------------------------------------------------|------------|
+| v0.2.3  | rename '项目推荐' to 'project-introduction' | 2023-10-04 |
+| v0.2.2  | add chapater 3.1.2 'how is it implemented' | 2023-10-04 |
 | v0.2.1  | translate directory name '云原生安全资讯' to 'cloud-native-security-news' | 2023-03-25 |
 | v0.2.0  | 新增章节1.5 Source Code[Optional]; 标记1.2 Why为 [Optional]               | 2023-03-03 |
 | v0.1.0  | 初始版本                                                               | 2023-02-17 |
