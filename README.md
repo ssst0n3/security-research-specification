@@ -8,6 +8,8 @@
   * 例子: TODO
 * [漏洞分析与复现](./vulnerability-research/%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E5%A4%8D%E7%8E%B0.md)
   * 例子: TODO
+* [漏洞原理示意图](./vulnerability-research/漏洞原理示意图.md)
+  * 例子: TODO
 
 ## 安全使用
 
